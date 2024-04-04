@@ -39,7 +39,7 @@ export default function Header() {
               About
             </li>
           </Link>
-          <Link to='/profile'>
+          <Link to='/signin'>
             
               <li className=' text-slate-700 hover:underline'> Sign in</li>
             
